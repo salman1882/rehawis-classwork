@@ -7,7 +7,7 @@ for index in range(6,-1,-1):
     print(numbers[index])
 
 print("Total", total)
-primt("Average", total//6)
+print("Average", total//6)
 
 
 
